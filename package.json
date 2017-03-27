@@ -1,0 +1,22 @@
+{
+  "name": "jarvis",
+  "version": "1.0.0",
+  "description": "personal assistant",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/desmarchris/jarvis.git"
+  },
+  "author": "Chris Desmarais",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/desmarchris/jarvis/issues"
+  },
+  "homepage": "https://github.com/desmarchris/jarvis#readme",
+  "dependencies": {
+    "watson-developer-cloud": "^2.27.1"
+  }
+}
